@@ -1,5 +1,5 @@
 # Kubernetes
- Instalando KubeCTL
+ Instalando KubeCTL - LINUX
 
 
 lincoln@UbuntuHML:~$ sudo su
